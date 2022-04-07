@@ -1,0 +1,36 @@
+footer,
+header{
+    background-color: #1f2937;
+    height: 30px;
+    }
+    .logo{
+        margin-right: auto;
+        color: #f9faf8;
+        align-items: flex-start;
+        font-size: 24px;
+        font: roboto;
+    }
+    .flexbox-container{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .headLink1{
+      font-size: 18px;
+      color: #E5E7EB;
+    }
+    .headLink2{
+        font-size: 18px;
+        color: #E5E7EB;
+        
+    }
+    .headLink3{
+        font-size: 18px;
+        color: #E5E7EB;
+        justify
+    }
+
+
+.topSection{
+    background-color: #1f2937; 
+}
