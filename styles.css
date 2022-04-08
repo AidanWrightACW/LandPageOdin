@@ -13,24 +13,32 @@ header{
     .flexbox-container{
         display: flex;
         justify-content: flex-end;
+        margin: 5px;
     }
 
     .headLink1{
       font-size: 18px;
       color: #E5E7EB;
+      padding: 10px;
+      
     }
     .headLink2{
         font-size: 18px;
         color: #E5E7EB;
-        
+        padding: 10px;
     }
     .headLink3{
         font-size: 18px;
-        color: #E5E7EB;
-        justify
+        color: #E5E7EB; 
+        padding: 10px;
     }
-
 
 .topSection{
     background-color: #1f2937; 
 }
+.Heading{
+    padding-top: 30px;
+    font: 48px;
+    color: #f9faf8;
+}
+        
